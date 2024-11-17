@@ -2,11 +2,9 @@
 
 1. Натиснути на "Code", вибрати "Clone" чи "Download ZIP"
 2. Завантажити VS Code 
-3. Завантажити MSSQL Server Express
-4. В VS Code натиснути на значок "Розширення", встановити "mssql"
-5. В терміналі VS Code: корінь проекту, cd server, npm i
-6. Новий термінал: cd client npm i
-7. npm run build
-8. Новий термінал, npm start
-9. Відкрити localhost:5000
+3. VS Code: в терміналі перейти до кореню проекту, cd server, npm i
+4. Відкрити новий термінал: cd client npm i
+5. npm run build
+6. Відкрити новий термінал, npm start
+7. Відкрити localhost:5000
     
