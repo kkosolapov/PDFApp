@@ -7,6 +7,6 @@
 5. В терміналі VS Code: корінь проекту, cd server, npm i
 6. Новий термінал: cd client npm i
 7. npm run build
-8. cd server, npm i
+8. Новий термінал, npm start
 9. Відкрити localhost:5000
     
